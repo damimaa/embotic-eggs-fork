@@ -2,6 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Embotic Discord Server
     url: https://discord.gg/embotic
+    about: Join our community on Discord!
   - name: Website
     url: https://embotic.xyz
     about: Our website
